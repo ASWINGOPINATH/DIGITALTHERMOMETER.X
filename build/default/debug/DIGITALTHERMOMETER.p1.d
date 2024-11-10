@@ -1,0 +1,2 @@
+build/default/debug/DIGITALTHERMOMETER.p1:  \
+DIGITALTHERMOMETER.c 
